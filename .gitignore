@@ -1,0 +1,6 @@
+.env
+__pycache__/
+downloads/
+answers.json
+questions.json
+*.pyc

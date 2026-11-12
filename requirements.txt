@@ -1,0 +1,10 @@
+smolagents[litellm]>=1.20,<2
+gradio
+ddgs
+markdownify
+requests
+pandas
+openpyxl
+pypdf
+pillow
+python-dotenv
